@@ -1,0 +1,133 @@
+body{background: url(Fon1.jpg);}
+container{width: 500px; background: DarkSlateGray;border:10px solid black;box-shadow: 20 20 20 black; margin-left:300px;margin-right:500;padding: 5px;padding-right: 20px; border: solid 1px black; float: left;}
+
+#header{margin-top: 50px; margin-right:100px; margin-left: 100px; }
+#menu{font-family:Orbitron, sans-serif;opacity:100%;font-size: 600%; text-align: center; color: Turquoise; text-shadow: 20px 20px 20px black; }
+#CirculFilm{border-radius: 50px; border: 3px solid red; box-shadow: 0 0 7px red;}
+a{color: Turquoise; text-decoration:none;}
+a:active{color: DarkRed;}
+#navigation{text-align: center;width:100%;font-family:Orbitron, sans-serif; font-size: 300%; color:Turquoise; text-shadow: 20px 20px 20px black;}
+#Icon{border-radius: 100px; border: 3px solid Turquoise; box-shadow: 0 0 7px Turquoise;margin-left:50px;margin-right:50px;}
+#images{margin-left:340px; margin-right:100px;}
+
+#content{opacity: 70%;background-color: DarkSlateGray;padding-bottom:10px;padding-left:10px;padding-right:10px; margin-top:100px; margin-left:150; margin-right: 150px;border: 3px solid Turquoise;box-shadow: 0 0 7px Turquoise;border-radius: 50px;}
+#Cont{font-family:Orbitron, sans-serif; font-size: 200%; color:Turquoise;text-align: center;}
+#Zagol{font-family:Orbitron, sans-serif; font-size: 400%; color:Turquoise;text-align: center;}
+#Razdel{float: left; font-family:Orbitron, sans-serif; font-size: 200%; color:Turquoise;text-align: center; margin-left:100px; border: 3px solid Turquoise; width: 230px;height: 300px;box-shadow: 0 0 7px Turquoise;border-radius: 10px;}
+ul{text-align: left;}
+#Razdel1{float: left; font-family:Orbitron, sans-serif; font-size: 200%; color:Turquoise;text-align: center; margin-left: 100px; border: 3px solid Turquoise; width: 230px;height: 300px;box-shadow: 0 0 7px Turquoise;border-radius: 10px;}
+#Razdel2{float: left; font-family:Orbitron, sans-serif; font-size: 200%; color:Turquoise;text-align: center; margin-left:100px; border: 3px solid Turquoise; width: 230px;height: 300px;box-shadow: 0 0 7px Turquoise;border-radius: 10px;}
+#footer{text-align:center;opacity: 70%;margin-top:10px;background-color: DarkSlateGray;padding-left:10px; border: 3px solid Turquoise;box-shadow: 0 0 7px Turquoise;border-radius: 50px;margin-left:150px;padding-bottom:10px;width:79%;}
+#VK{border-radius:35px; border: 3px solid Turquoise; box-shadow: 0 0 7px Turquoise; margin:5px;}
+#VK1{border-radius:35px; border: 3px solid Turquoise; box-shadow: 0 0 7px Turquoise; margin:5px;}
+#VK2{border-radius:35px; border: 3px solid Turquoise; box-shadow: 0 0 7px Turquoise; margin:5px;}
+#VK3{border-radius:35px; border: 3px solid Turquoise; box-shadow: 0 0 7px Turquoise; margin:5px;}
+#avtor{font-family:Orbitron, sans-serif; font-size: 200%; color:Turquoise; text-align: right; margin-right:40px; margin-top:18px;}
+#piz{ margin-top:12px;display:inline-block;vertical-align: middle;width:5,5%;}
+#Adress{display:inline-block;vertical-align: middle;width:30%;height:295px;}
+#ZagolBooks{float:left;font-family:Orbitron, sans-serif;padding: 10px 10px 10px 10px; font-size: 350%; color:Turquoise;text-align: center; text-shadow: 10px 10px 10px black; margin-left:200px;margin-top:22px; border: 3px solid Turquoise;border-radius: 20px; box-shadow: 0 0 7px Turquoise;}
+#ZagolBooks2{display:inline-block;
+vertical-align: middle;font-family:Orbitron, sans-serif;padding: 10px 10px 10px 10px; font-size: 300%; color:Turquoise;text-align: center; text-shadow: 10px 10px 10px black; margin-top:10px; border-radius: 20px; }
+#ZagolBooks1{font-family:Orbitron, sans-serif; font-size: 790%; color:Turquoise;text-align: center; text-shadow: 10px 10px 10px black;margin-left:440px;margin-right:200px; }
+#Icon1{border-radius: 100px; border: 3px solid Turquoise; box-shadow: 0 0 7px Turquoise;}
+#BookCont{margin-left:150px;margin-right:150px;margin-top:40px;opacity: 70%;background-color: DarkSlateGray;border: 3px solid Turquoise;box-shadow: 0 0 7px Turquoise;border-radius: 50px;font-family:Orbitron, sans-serif;font-size: 100%;text-align:justify;color:Turquoise;padding:20px;}
+#ContentBooks{opacity: 70%;background-color: DarkSlateGray;width: 100%;height:60%;border: 3px solid Turquoise;box-shadow: 0 0 7px Turquoise;border-radius: 50px;
+}
+#ListComics{display:inline-block;
+vertical-align: middle;opacity: 70%;font-family:Orbitron, sans-serif;color:Turquoise;text-align: center;text-shadow: 10px 10px 10px black;background-color: DarkSlateGray;padding:10px;height:300px; width: 30%;border: 3px solid Turquoise;box-shadow: 0 0 7px Turquoise;border-radius: 50px;}
+#ListFiction{display:inline-block;
+vertical-align: middle;opacity: 70%;font-family:Orbitron, sans-serif;color:Turquoise;text-align: center;text-shadow: 10px 10px 10px black;background-color: DarkSlateGray;margin-top:10px; height:200px;width: 30%;border: 3px solid Turquoise;box-shadow: 0 0 7px Turquoise;border-radius: 50px;}
+#ListFilms{display:inline-block;
+vertical-align: middle;margin: 10px 5px 10px 5px;width:252px;height:300px;border: 3px solid Turquoise;box-shadow: 0 0 7px Turquoise;font-family:Orbitron, sans-serif;color:Turquoise;text-shadow: 10px 10px 10px black;border-radius: 20px;background-color: DarkSlateGray;}
+#ListFilms1{margin:5px 5px 5px 5px;font-size:200%;text-align:center;}
+#ListFilms2{font-size:100%;padding:10px 10px 10px 10px;margin: 10px 10px 10px 10px;overflow:auto;height:200px;}
+#ListSerials{display:inline-block;
+vertical-align: middle;margin: 10px 5px 10px 5px; width:252px;height:300px;border: 3px solid Turquoise;box-shadow: 0 0 7px Turquoise;font-family:Orbitron, sans-serif;color:Turquoise;text-align: center;text-shadow: 10px 10px 10px black;border-radius: 20px;background-color: DarkSlateGray;}
+#ListAnime{display:inline-block;
+vertical-align: middle;margin: 10px 5px 10px 5px; width:252px;height:300px;border: 3px solid Turquoise;box-shadow: 0 0 7px Turquoise;font-family:Orbitron, sans-serif;color:Turquoise;text-align: center;text-shadow: 10px 10px 10px black;border-radius: 20px;background-color: DarkSlateGray;}
+#ListCartoons{display:inline-block;
+vertical-align: middle;margin: 10px 5px 10px 5px; width:252px;height:300px;border: 3px solid Turquoise;box-shadow: 0 0 7px Turquoise;font-family:Orbitron, sans-serif;color:Turquoise;text-align: center;text-shadow: 10px 10px 10px black;padding:10px 10px 10px 10x;border-radius: 20px;background-color: DarkSlateGray;}
+#BR1{margin-top:50px;height:350px;
+text-align:center;
+width:77%;
+padding:10pt;
+margin-left:150px;
+}
+#BR2{height:450px;
+text-align:center;
+width:97%;
+background-color: DarkSlateGray;
+padding:10pt;
+border-radius:20pt;}
+#BR3{
+height:450px;
+text-align:center;
+width:100%;
+background-color: DarkSlateGray;
+border-radius:20pt;
+
+}
+#BR4{
+height:420px;
+text-align:center;
+width:25%;
+background-color: DarkSlateGray;
+padding:10pt;
+border-radius:20pt;
+display:inline-block;vertical-align: middle;
+}
+#BR5{
+margin-left:50px;
+height:420px;
+text-align:center;
+width:50%;
+padding:10pt;
+border-radius:20pt;
+display:inline-block;vertical-align: middle;
+}
+#BR6{
+margin-left:50px;
+height:330px;
+text-align:center;
+width:90%;
+padding:10pt;
+border-radius:20pt;
+display:inline-block;vertical-align: middle;
+}
+
+#Name{font-family:Orbitron, sans-serif; font-size: 300%; color:Turquoise;text-align: center;}
+#MoveCont{margin: 10px 150px 0px 150px;border: 3px solid Turquoise;
+box-shadow: 0 0 7px Turquoise;font-family:Orbitron, sans-serif;
+color:Turquoise;padding:10px 20px 10px 20px;text-align:justify;
+text-shadow: 10px 10px 10px black;
+border-radius: 50px;background-color: DarkSlateGray;opacity:70%;}
+
+
+#But1{background-color: DarkSlateGray;border:3px solid Turquoise;border-radius: 50px;font-family:Orbitron, sans-serif; font-size: 150%; color:Turquoise;text-align: center;width:94%;height:50px; margin:5px;box-shadow: 0 0 7px Turquoise;}
+#But2{background-color: DarkSlateGray;border:3px solid Turquoise;border-radius: 50px;font-family:Orbitron, sans-serif; font-size: 150%; color:Turquoise;text-align: center;width:94%;height:50px; margin:5px;box-shadow: 0 0 7px Turquoise;}
+#But3{background-color: DarkSlateGray;border:3px solid Turquoise;border-radius: 50px;font-family:Orbitron, sans-serif; font-size: 150%; color:Turquoise;text-align: center;width:94%;height:50px; margin:5px;box-shadow: 0 0 7px Turquoise;}
+#But4{background-color: DarkSlateGray;border:3px solid Turquoise;border-radius: 50px;font-family:Orbitron, sans-serif; font-size: 150%; color:Turquoise;text-align: center;width:94%;height:50px; margin:5px;box-shadow: 0 0 7px Turquoise;}
+#But4{background-color: DarkSlateGray;border:3px solid Turquoise;border-radius: 50px;font-family:Orbitron, sans-serif; font-size: 150%; color:Turquoise;text-align: center;width:94%;height:50px; margin:5px;box-shadow: 0 0 7px Turquoise;}
+#But{background-color: DarkSlateGray;border:3px solid Turquoise;border-radius: 50px;font-family:Orbitron, sans-serif; font-size: 150%; color:Turquoise;text-align: center;width:94%;height:50px; margin:5px;box-shadow: 0 0 7px Turquoise;}
+
+#Form1{display:inline-block;vertical-align: middle;width:40%;margin-left:200px;margin-top:10px;}
+.FormN{font-family:Orbitron, sans-serif; font-size: 150%; color:Turquoise;text-align: center;}
+.FormT{background-color: DarkSlateGray;border:3px solid Turquoise;border-radius: 50px;font-family:Orbitron, sans-serif; font-size: 150%; color:Turquoise;padding:5px;text-align: center;}
+.butt{background-color: DarkSlateGray;border:3px solid Turquoise;border-radius: 50px;font-family:Orbitron, sans-serif; font-size: 150%; color:Turquoise;text-align: center;width:35%;}
+#Zagolov{text-align:center; font-size:400%;text-shadow: 20px 20px 20px black;font-family:Orbitron, sans-serif; font-size: 400%; color:Turquoise;}
+#ButCheck{border:3px solid Turquoise;border-radius: 50px;font-family:Orbitron, sans-serif; font-size: 150%; color:Turquoise;text-align: center;width:20%;}
+#IrGCont{text-align:center;width:77%;margin-left:150px;opacity: 90%;background-color: DarkSlateGray;border: 3px solid Turquoise;box-shadow: 0 0 7px Turquoise;border-radius: 50px;padding:10px;}
+#IrGContS{width:90%;display:none;font-family:Orbitron, sans-serif;font-size: 100%;text-align:center;color:Turquoise;margin-top:10px;margin-left:50px;}
+.Scrin{font-family:Orbitron, sans-serif;font-size: 100%;color:Turquoise;background-color: DarkSlateGray;border: 3px solid Turquoise;box-shadow: 0 0 7px Turquoise;border-radius: 50px;}
+.Plot{width:20%;font-family:Orbitron, sans-serif;font-size: 100%;color:Turquoise;background-color: DarkSlateGray;border: 3px solid Turquoise;box-shadow: 0 0 7px Turquoise;border-radius: 50px;}
+.Characters{width:20%;font-family:Orbitron, sans-serif;font-size: 100%;color:Turquoise;background-color: DarkSlateGray;border: 3px solid Turquoise;box-shadow: 0 0 7px Turquoise;border-radius: 50px;}
+.Features{width:20%;font-family:Orbitron, sans-serif;font-size: 100%;color:Turquoise;background-color: DarkSlateGray;border: 3px solid Turquoise;box-shadow: 0 0 7px Turquoise;border-radius: 50px;}
+#check{width:5%;display:inline-block;vertical-align: middle;font-family:Orbitron, sans-serif;font-size: 100%;color:Turquoise;background-color: DarkSlateGray;border: 3px solid Turquoise;box-shadow: 0 0 7px Turquoise;border-radius: 50px;height:35px;}
+
+#Char{width:100%; text-align:center;font-family:Orbitron, sans-serif;font-size: 150%;color:Turquoise;background-color: DarkSlateGray;border-radius: 50px; margin-top:10px;display:none;}
+#CharPhoto{display:inline-block;vertical-align: middle;width:45%;text-align:center; border: 3px solid Turquoise;border-radius: 50px;margin-top:10px;}
+#CharMult{display:inline-block;vertical-align: middle;margin-top:30px;}
+#CharPers{display:inline-block;vertical-align: middle;margin-top:30px;}
+
+
+#Feat{width:99%;text-align: center; margin:5px;margin-top:20px;display:none;}

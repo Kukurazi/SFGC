@@ -1,0 +1,6 @@
+<html>
+<head></head>
+<body>
+<a href="#box" onclick="openbox('box')"; return false>Открыть</a>
+</body>
+</html>
